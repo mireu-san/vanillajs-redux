@@ -1,3 +1,3 @@
 # Vanilla Redux
 
-Vanilla JS and React-Redux
+Practising Vanilla JS and React-Redux
